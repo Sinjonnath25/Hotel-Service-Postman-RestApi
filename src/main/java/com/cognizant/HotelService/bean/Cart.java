@@ -11,6 +11,8 @@ public class Cart {
 	}
 	public Cart(ArrayList<MenuItem> menuItemList, double total) {
 		this.menuItemList = menuItemList;
+		
+		
 		this.total = total;
 	}
 	
